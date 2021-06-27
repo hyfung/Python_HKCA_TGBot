@@ -15,7 +15,9 @@ Including but not limited to
 - Readme
 - Application Procedures
 - Deadline Calculation
-- NOC CLass lookup
+- NOC Class lookup
+- Debouncer to prevent people from spamming
+- Housekeeping to keep the chatroom clean
 
 ## Functionality
 
